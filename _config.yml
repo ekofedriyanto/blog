@@ -2,7 +2,7 @@
 title: Invisible Ninja was Here 
 email: eko@firstlabstudio.com
 description: > # this means to ignore newlines until "baseurl:"
- Nothing special, only about technical things.
+  Nothing special, only about technical things.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ekofedriyanto.github.io/" # the base hostname & protocol for your site
 twitter_username: eko_fedriyanto
